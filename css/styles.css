@@ -96,8 +96,7 @@
 .section-four-conteiner {
 border: none;
 width: 120px;
-align-content: stretch;
-display: flex;
+display: block;
     
 }
 .footer-container {
